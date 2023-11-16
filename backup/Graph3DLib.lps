@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Graph3DLib.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="42" Y="6"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="spc_obj.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="5"/>
+        <CursorPos X="18" Y="9"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="scenenario.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="18"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="importer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="32" Y="6"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="renderer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="41"/>
+        <CursorPos X="9" Y="66"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\rtl-extra\src\inc\matrix.pp"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="106"/>
+        <CursorPos X="4" Y="106"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="27">
+      <Position>
+        <Filename Value="importer.pas"/>
+        <Caret Line="6" Column="32"/>
+      </Position>
+      <Position>
+        <Filename Value="renderer.pas"/>
+        <Caret Line="8" Column="14"/>
+      </Position>
+      <Position>
+        <Filename Value="renderer.pas"/>
+        <Caret Line="10" Column="7"/>
+      </Position>
+      <Position>
+        <Filename Value="renderer.pas"/>
+        <Caret Line="15" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="renderer.pas"/>
+        <Caret Line="23" Column="8" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="renderer.pas"/>
+        <Caret Line="33" Column="11" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="spc_obj.pas"/>
+        <Caret Line="39" Column="36"/>
+      </Position>
+      <Position>
+        <Filename Value="spc_obj.pas"/>
+        <Caret Line="33" Column="46" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="spc_obj.pas"/>
+        <Caret Line="37" Column="52" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="spc_obj.pas"/>
+        <Caret Line="39" Column="27" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="renderer.pas"/>
+        <Caret Line="22" Column="29" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="renderer.pas"/>
+        <Caret Line="53" Column="19" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="renderer.pas"/>
+        <Caret Line="18" Column="38"/>
+      </Position>
+      <Position>
+        <Filename Value="renderer.pas"/>
+        <Caret Line="34" Column="38" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="renderer.pas"/>
+        <Caret Line="14" Column="22" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="renderer.pas"/>
+        <Caret Line="49" Column="62" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="renderer.pas"/>
+        <Caret Line="48" Column="38" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="renderer.pas"/>
+        <Caret Line="49" Column="38" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="renderer.pas"/>
+        <Caret Line="33" Column="37" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="renderer.pas"/>
+        <Caret Line="14" Column="51"/>
+      </Position>
+      <Position>
+        <Filename Value="renderer.pas"/>
+        <Caret Line="49" Column="53" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="renderer.pas"/>
+        <Caret Line="5" Column="51"/>
+      </Position>
+      <Position>
+        <Filename Value="renderer.pas"/>
+        <Caret Line="50" Column="50" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="renderer.pas"/>
+        <Caret Line="54" Column="28" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="renderer.pas"/>
+        <Caret Line="14" Column="41"/>
+      </Position>
+      <Position>
+        <Filename Value="renderer.pas"/>
+        <Caret Line="54" Column="22" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="renderer.pas"/>
+        <Caret Line="76" Column="7" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="renderer.pas"/>
+        <Caret Line="69" Column="46" TopLine="41"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1449427374"/>
+  <Params Value=" -MObjFPC -Scghi -WR -O1 -g -gl -l -vewnhibq &quot;-FiC:\Users\User\Documents\santirruki&apos;s stuff\tecnolas\tecnolas\pascal\graph3dlib\lib\x86_64-win64&quot; -FuC:\lazarus\lcl\units\x86_64-win64\win32 -FuC:\lazarus\lcl\units\x86_64-win64 -FuC:\lazarus\components\freetype\lib\x86_64-win64 -FuC:\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\lazarus\packager\units\x86_64-win64 &quot;-FuC:\Users\User\Documents\santirruki&apos;s stuff\tecnolas\tecnolas\pascal\graph3dlib\&quot; &quot;-FUC:\Users\User\Documents\santirruki&apos;s stuff\tecnolas\tecnolas\pascal\graph3dlib\lib\x86_64-win64\&quot; &quot;-FEC:\Users\User\Documents\santirruki&apos;s stuff\tecnolas\tecnolas\pascal\graph3dlib\&quot; &quot;-oC:\Users\User\Documents\santirruki&apos;s stuff\tecnolas\tecnolas\pascal\graph3dlib\Graph3DLib.dll&quot; -dLCL -dLCLwin32 Graph3DLib.lpr"/>
+</CONFIG>
